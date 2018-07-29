@@ -1,7 +1,5 @@
 def my_hash
-  new_hash  = {1: 2, 2: 3}
-
-  
+  new_hash  = {num1: 2, num2: 3}
 end
 
 
